@@ -24,6 +24,3 @@ This app allows users to add, edit, mark as done/undone, and delete tasks easily
 - **Database:** SQLite (default Django DB)
 
 
-
-## 📂 Project Structure
-
